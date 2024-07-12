@@ -5,7 +5,16 @@
     max-width: 150px; /* Adjust as needed */
     max-height: 150px; /* Adjust as needed */
   }
-  
+  .papers:hover{
+    background-color: black;
+    color: #FDB515;
+  }
+  .papers{
+    background-color:#FDB515;
+    padding:  2%;
+    border-radius:10%;
+  }
+
 
   .faq-section {
     width: 100vw;
